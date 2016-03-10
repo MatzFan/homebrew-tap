@@ -6,7 +6,7 @@ class Imgls < Formula
   sha256 "aafee0985ace4815fd62c32ff4390f1e6c43f8ee27e9346bc2682df186b5af6d"
 
   head do
-    url "https://raw.githubusercontent.com/gnachman/iTerm2/HEAD/tests/imgcat"
+    url "https://raw.githubusercontent.com/gnachman/iTerm2/HEAD/tests/imgls"
   end
 
   def install
